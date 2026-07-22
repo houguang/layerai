@@ -1,0 +1,23 @@
+name: 提问 / Question
+description: 使用问题、概念澄清或使用建议
+title: "[Question] "
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        提问前可先查阅 [文档](https://docs.layerai.yun)。Please check the [docs](https://docs.layerai.yun) first.
+  - type: textarea
+    id: question
+    attributes:
+      label: 问题 / Question
+      description: 请清楚描述你的问题
+      placeholder: 我想了解…… / I'd like to know…
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: 补充信息 / Context
+      description: 浏览器、扩展版本、相关页面或截图等（可选）
+      placeholder: Chrome 131 / LayerAI x.y.z …

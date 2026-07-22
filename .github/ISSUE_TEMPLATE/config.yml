@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 使用文档 / Documentation
+    url: https://docs.layerai.yun
+    about: 查阅安装、功能与排错说明 / Install, features, and troubleshooting
+  - name: 官网 / Website
+    url: https://layerai.yun/
+    about: 产品介绍、定价与订阅 / Product, pricing, and subscription

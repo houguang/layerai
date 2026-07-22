@@ -1,0 +1,45 @@
+name: 缺陷反馈 / Bug report
+description: 功能异常、崩溃或不符合预期的行为
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: 问题摘要 / Summary
+      description: 一句话描述发生了什么
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤 / Steps to reproduce
+      placeholder: |
+        1. …
+        2. …
+        3. …
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 期望行为 / Expected
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: 实际行为 / Actual
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: 环境 / Environment
+      description: 浏览器与扩展版本
+      placeholder: Chrome 131 / LayerAI x.y.z
+  - type: textarea
+    id: extras
+    attributes:
+      label: 截图或日志 / Screenshots & logs
+      description: 可选
