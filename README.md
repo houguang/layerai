@@ -1,5 +1,10 @@
 # LayerAI
 
+[![Website](https://img.shields.io/badge/Website-layerai.yun-0A66C2?logo=google-chrome&logoColor=white)](https://layerai.yun/)
+[![Docs](https://img.shields.io/badge/Docs-docs.layerai.yun-informational?logo=readthedocs&logoColor=white)](https://docs.layerai.yun)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/users/enpnogogneglhpcdkfppcjnbbjafhikc?label=Chrome%20users&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/enpnogogneglhpcdkfppcjnbbjafhikc)
+[![Issues](https://img.shields.io/github/issues/houguang/layerai?logo=github)](https://github.com/houguang/layerai/issues)
+
 **Local-first AI translation workflow for the web**
 
 [🇨🇳 中文](./README_ZH.md) · [🌐 Website](https://layerai.yun/) · [📖 Docs](https://docs.layerai.yun) · [🧩 Chrome Extension](https://chromewebstore.google.com/detail/enpnogogneglhpcdkfppcjnbbjafhikc)

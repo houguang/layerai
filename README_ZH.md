@@ -1,5 +1,10 @@
 # LayerAI
 
+[![Website](https://img.shields.io/badge/Website-layerai.yun-0A66C2?logo=google-chrome&logoColor=white)](https://layerai.yun/)
+[![Docs](https://img.shields.io/badge/Docs-docs.layerai.yun-informational?logo=readthedocs&logoColor=white)](https://docs.layerai.yun)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/users/enpnogogneglhpcdkfppcjnbbjafhikc?label=Chrome%20users&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/enpnogogneglhpcdkfppcjnbbjafhikc)
+[![Issues](https://img.shields.io/github/issues/houguang/layerai?logo=github)](https://github.com/houguang/layerai/issues)
+
 **本地优先的网页 AI 翻译工作流**
 
 [🇬🇧 English](./README.md) · [🌐 官网](https://layerai.yun/) · [📖 文档](https://docs.layerai.yun) · [🧩 Chrome 扩展](https://chromewebstore.google.com/detail/enpnogogneglhpcdkfppcjnbbjafhikc)
