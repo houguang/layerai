@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/logo.png" alt="LayerAI logo" width="128" />
+</p>
+
 # LayerAI
 
 [![Website](https://img.shields.io/badge/Website-layerai.yun-0A66C2?logo=google-chrome&logoColor=white)](https://layerai.yun/)
