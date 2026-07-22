@@ -1,24 +1,24 @@
-name: 功能建议 / Feature request
-description: 新功能或体验改进建议
+name: Feature request
+description: Suggest a new feature or UX improvement
 title: "[Feature] "
 labels: ["enhancement"]
 body:
   - type: textarea
     id: problem
     attributes:
-      label: 要解决的问题 / Problem
-      description: 当前痛点是什么？
+      label: Problem
+      description: What pain point are you trying to solve?
     validations:
       required: true
   - type: textarea
     id: proposal
     attributes:
-      label: 建议方案 / Proposal
-      description: 你希望产品如何改进
+      label: Proposal
+      description: How would you like the product to improve?
     validations:
       required: true
   - type: textarea
     id: alternatives
     attributes:
-      label: 其他方案 / Alternatives
-      description: 你考虑过的替代做法（可选）
+      label: Alternatives
+      description: Other approaches you considered (optional)
