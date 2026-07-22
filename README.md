@@ -2,7 +2,7 @@
 
 **Local-first AI translation workflow for the web**
 
-[中文](./README_ZH.md) · [Website](https://layerai.yun/) · [Docs](https://docs.layerai.yun) · [Chrome Extension](https://chromewebstore.google.com/detail/enpnogogneglhpcdkfppcjnbbjafhikc)
+[🇨🇳 中文](./README_ZH.md) · [🌐 Website](https://layerai.yun/) · [📖 Docs](https://docs.layerai.yun) · [🧩 Chrome Extension](https://chromewebstore.google.com/detail/enpnogogneglhpcdkfppcjnbbjafhikc)
 
 ---
 

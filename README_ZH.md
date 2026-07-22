@@ -2,7 +2,7 @@
 
 **本地优先的网页 AI 翻译工作流**
 
-[English](./README.md) · [官网](https://layerai.yun/) · [文档](https://docs.layerai.yun) · [Chrome 扩展](https://chromewebstore.google.com/detail/enpnogogneglhpcdkfppcjnbbjafhikc)
+[🇬🇧 English](./README.md) · [🌐 官网](https://layerai.yun/) · [📖 文档](https://docs.layerai.yun) · [🧩 Chrome 扩展](https://chromewebstore.google.com/detail/enpnogogneglhpcdkfppcjnbbjafhikc)
 
 ---
 
