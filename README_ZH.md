@@ -6,6 +6,10 @@
 
 ---
 
+<p align="center">
+  <img src="./assets/hero-en.png" alt="LayerAI — AI 起草，你来定稿" width="900" />
+</p>
+
 LayerAI 是一款浏览器扩展，帮助你在网页上完成文本采集、AI 翻译、术语治理与多语言替换。
 
 与每次打开页面都重新翻译不同，LayerAI 会把确认过的译文沉淀为可复用资产：同一页内容未变化时，已定稿译文会自动应用。

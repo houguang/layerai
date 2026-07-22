@@ -6,6 +6,10 @@
 
 ---
 
+<p align="center">
+  <img src="./assets/hero-en.png" alt="LayerAI — AI drafts, you finalize" width="900" />
+</p>
+
 LayerAI is a browser extension that helps you collect page text, run AI translation, govern terminology, and apply multilingual replacements on the web.
 
 Unlike tools that re-translate on every page load, LayerAI turns confirmed translations into reusable assets. When the same page content has not changed, saved wording applies automatically.
